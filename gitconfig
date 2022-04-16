@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = chloe.detat@sciencespo.fr
+	name = Chloe Detat
